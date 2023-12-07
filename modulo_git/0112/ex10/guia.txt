@@ -1,0 +1,44 @@
+Guia de Iniciação à Fotografia Digital
+========================================
+
+Introdução
+-----------
+A fotografia digital abriu um leque de possibilidades para capturar momentos com facilidade e flexibilidade. 
+
+Com câmeras digitais, smartphones e editores de imagens, qualquer um pode se aventurar neste campo criativo.
+
+
+O Básico da Câmera Digital
+-----------------------------
+Antes de mais nada, familiarize-se com os principais componentes da sua câmera:
+
+* **Sensor**: o coração da câmera, captura a luz e cria a imagem.
+* **Lente**: controla a entrada de luz e foca a imagem no sensor.
+* **Diafragma**: ajusta a quantidade de luz que entra na câmera.
+* **Obturador**: controla o tempo durante o qual a luz atinge o sensor.
+
+Longa Exposição
+-----------------
+A técnica de longa exposição é fascinante, permitindo que fotógrafos criem imagens etéreas e dinâmicas. 
+Essencial para capturar cenas com baixa luminosidade ou movimento deliberadamente borrado, requer configurações específicas:
+
+* **Tripé**: Para evitar tremidas, um tripé é essencial.
+* **Tempo de Exposição**: Aumente o tempo de exposição para segundos ou até minutos para permitir que movimentos sejam captados.
+* **Câmera**: Use um modo manual ou de prioridade de obturador para controlar precisamente a exposição.
+* **Filtro ND**: Um filtro de densidade neutra pode ser necessário para evitar superexposição durante o dia.
+
+Exemplos práticos incluem fotografar cachoeiras com a água parecendo seda 
+ou ruas da cidade com luzes de carros traçando linhas através do quadro.
+
+ISO Elevado
+-------------
+O ISO mede a sensibilidade do sensor à luz. 
+Um ISO elevado pode ser a chave para fotografar em ambientes com pouca luz sem sacrificar a velocidade do obturador.
+Contudo, ISOs mais altos podem introduzir ruído/grão na imagem.
+
+* **Configuração de ISO**: Aumente o ISO para capturar mais luz com rapidez.
+* **Compensações**: Esteja ciente do compromisso entre luminosidade e aumento de ruído.
+* **Pós-Processamento**: Programas modernos de edição podem reduzir eficientemente o ruído de imagens com ISO elevado.
+
+Esta técnica é útil em eventos internos ou em cenas noturnas onde a iluminação é limitada.
+>>>>>>> high-iso

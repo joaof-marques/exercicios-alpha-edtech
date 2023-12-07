@@ -1,0 +1,28 @@
+Guia de Iniciação à Fotografia Digital
+========================================
+
+Introdução
+-----------
+A fotografia digital abriu um leque de possibilidades para capturar momentos com facilidade e flexibilidade. 
+
+Com câmeras digitais, smartphones e editores de imagens, qualquer um pode se aventurar neste campo criativo.
+
+
+O Básico da Câmera Digital
+-----------------------------
+Antes de mais nada, familiarize-se com os principais componentes da sua câmera:
+
+* **Sensor**: o coração da câmera, captura a luz e cria a imagem.
+* **Lente**: controla a entrada de luz e foca a imagem no sensor.
+* **Diafragma**: ajusta a quantidade de luz que entra na câmera.
+* **Obturador**: controla o tempo durante o qual a luz atinge o sensor.
+
+Expansão do Guia
+------------------
+Este guia pode ser expandido para incluir técnicas avançadas como:
+
+* **Longa Exposição**: captura o movimento suave de elementos como água ou nuvens.
+* **ISO Elevado**: permite fotografar em condições de baixa luminosidade, aumentando a sensibilidade do sensor à luz.
+
+Ambas as técnicas requerem compreensão aprofundada da interação entre luz, tempo de exposição e sensibilidade do sensor, 
+podendo transformar completamente uma fotografia.

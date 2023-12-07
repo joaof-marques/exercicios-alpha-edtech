@@ -1,0 +1,10 @@
+Criei o arquivo historico.txt
+git init
+criei o arquivo guia.txt
+git status
+git add . (adicionei os dois arquivos à área de staging)
+git commit -m "Primeiro commit"
+criei o arquivo contato.txt
+git status (mostrou a criação do arquivo contato e a alteração desse historico.txt pois estou escrevendo nele enquanto faço o passo a passo)
+git add . (adicionou os dois arquivos ao staging)
+git commit -m "ultimo commit" (utilizei a mensagem "ultimo commit" para ficar igual ao exemplo)
