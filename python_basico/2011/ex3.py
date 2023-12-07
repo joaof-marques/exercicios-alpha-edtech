@@ -1,0 +1,3 @@
+O set é útil para realizar agrupamentos de itens dentro de uma list, permitindo gerar uma lista desses itens sem repetição e facilitando coisas como criar um contador de vezes que um item aparece, criar totalizadores em tabelas contábeis, criar medidores de recorrência em análises estatísticas, etc. Ainda podemos decidir se queremos que o set seja imutável através da utilização de frozenset. Podemos querer usar isso para situações onde podem ocorrer inserções não desejadas, então o frozenset nos garante a estabilidade dos dados sendo analizados.
+
+E conjuntos são úteis quando queremos trabalhar com dados e verificar a semelhança/diferença entre os itens que os populam. Pode facilitar muito análises estatísticas baseadas em conjuntos (populações, cidades, estados, etc)
