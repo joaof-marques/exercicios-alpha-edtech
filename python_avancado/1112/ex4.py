@@ -1,0 +1,3 @@
+"""
+Os generators geralmente são mais eficientes pois não guardam todo o conjunto de informações de uma vez. Ele faz os cálculos, executa o que tem que executar e vai retornando um valor por vez, assim, se por algum motivo você precisar do valor anterior, terá que gerar tudo novamente. Isso gera economia de memória e tempo de execução. Já as listas comuns armazenam todas as informações de uma vez, alocando e ocupando todo o espaço de memória necessário para todo o conjunto de dados.
+"""
