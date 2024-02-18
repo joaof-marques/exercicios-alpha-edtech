@@ -1,0 +1,1 @@
+print(hash({'nome': 'joao', 'idade': 28}))

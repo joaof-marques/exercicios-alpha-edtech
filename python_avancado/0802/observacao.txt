@@ -1,0 +1,3 @@
+ Inicialmente eu decidi fazer o código com merge sort, pois entendi que se aplicaria melhor para os casos onde precisa considerar o ano. Porém após terminar percebi que não é necessariamente o caso, pois tive que fazer a verificação do ano diretamente no código. Então depois implementei o quicksort para comparar o tempo e não houve diferença para esse exemplo.
+Tentei colocar um input maior (um array com 1691 valores) e o tempo de execução foi o mesmo.
+Para esse exercício não consegui chegar à uma conclusão de qual seria melhor, porém ainda entendo que para a manutenção da ordem por ano o merge sort seja mais adequado.
